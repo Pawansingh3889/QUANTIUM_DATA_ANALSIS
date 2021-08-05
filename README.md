@@ -33,3 +33,10 @@ total sales revenue
 total number of customers
 average number of transactions per customer
 
+
+# Task 3
+
+
+Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
+
+Used Pyramid Principle method to deliver insigths and recommendation to client in Powerpoint.
